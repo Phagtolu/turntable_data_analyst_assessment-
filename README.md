@@ -67,20 +67,6 @@ Due to differences in scale across platforms, each metric was normalized using:
 
 Normalized Score = (Value / Maximum Value) × 100
 
----
-
-Weighting Method
-
-The following demonstration weights were applied:
-
-- Radio: 40%
-- YouTube: 35%
-- Audiomack: 25%
-
-Total Score =
-(Radio × 0.40) +
-(YouTube × 0.35) +
-(Audiomack × 0.25)
 
 ---
 
